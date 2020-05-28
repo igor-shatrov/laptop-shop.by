@@ -1,0 +1,11 @@
+.attr-item:hover{
+    background: #F2F2F2;
+}
+
+.photo img:hover{
+    border: 2px solid rgb(76, 180, 76);
+}
+
+.selected{
+    border: 3px solid grey;
+}

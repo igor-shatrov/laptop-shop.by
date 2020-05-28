@@ -1,0 +1,18 @@
+.search input {
+    width: 500px;
+}
+
+input:invalid {
+    border: 2px solid red;
+}
+
+/* input:valid {
+    border: 2px solid black;
+} */
+
+.login-invalid-feedback{
+    display: none;
+}
+#wrong-password{
+    display: none;
+}
